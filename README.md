@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KronioNil(or ZeroNil)
+- 👀 I’m interested in ... JavaScript and Python
+- 🌱 I’m currently learning ... JavaScript
+- 📫 How to reach me ... ZeroNil#9508
